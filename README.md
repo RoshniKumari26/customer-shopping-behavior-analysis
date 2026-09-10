@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project exploring customer shopping behavior — from raw data cleaning in Python, to insight-generation with SQL, to an interactive Power BI dashboard.
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 📌 Overview
 
